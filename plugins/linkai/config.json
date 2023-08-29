@@ -1,3 +1,14 @@
 {
-  
+    "group_app_map": {
+        "明亚.风起保险团chatGpt": "QNJaJ0ka",
+        "🧗🏻行远.风起保险团": "QNJaJ0ka"
+    },
+    "midjourney": {
+        "enabled": true,
+        "auto_translate": true,
+        "img_proxy": true,
+        "max_tasks": 3,
+        "max_tasks_per_user": 1,
+        "use_image_create_prefix": true
+    }
 }
